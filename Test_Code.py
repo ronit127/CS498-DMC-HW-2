@@ -2,8 +2,8 @@ import requests
 import time
 from datetime import datetime, timezone
 
-EUROPE_URL = "http://35.205.201.141:8080"
-US_URL = "http://136.113.212.94:8080"
+EUROPE_URL = "http://35.205.114.61:8080"
+US_URL = "http://34.136.97.138:8080"
 
 ### testing 
 
